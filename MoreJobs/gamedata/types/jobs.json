@@ -1,0 +1,339 @@
+{
+	"Nach0Oven2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"m"
+		],
+		"icon": "Nach0Oven2.png",
+		"maxStackSize": 50,
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": true,
+		"rotatablex-": "Nach0Oven2X-",
+		"rotatablex+": "Nach0Oven2X+",
+		"rotatablez-": "Nach0Oven2Z-",
+		"rotatablez+": "Nach0Oven2Z+"
+	},
+	"Nach0Oven2X-": {
+		"parentType": "Nach0Oven2",
+		"sidex-": "ovenunlitfront",
+		"sidey+": "Nach0Oven2TopTexture",
+		"sideall": "stonebricks"
+	},
+	"Nach0Oven2X+": {
+		"parentType": "Nach0Oven2",
+		"sidex+": "ovenunlitfront",
+		"sidey+": "Nach0Oven2TopTexture",
+		"sideall": "stonebricks"
+	},
+	"Nach0Oven2Z-": {
+		"parentType": "Nach0Oven2",
+		"sidez-": "ovenunlitfront",
+		"sidey+": "Nach0Oven2TopTexture",
+		"sideall": "stonebricks"
+	},
+	"Nach0Oven2Z+": {
+		"parentType": "Nach0Oven2",
+		"sidez+": "ovenunlitfront",
+		"sidey+": "Nach0Oven2TopTexture",
+		"sideall": "stonebricks"
+	},
+	"Nach0Bloomery2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"n"
+		],
+		"icon": "Nach0Bloomery2.png",
+		"maxStackSize": 50,
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": true,
+		"rotatablex-": "Nach0Bloomery2X-",
+		"rotatablex+": "Nach0Bloomery2X+",
+		"rotatablez-": "Nach0Bloomery2Z-",
+		"rotatablez+": "Nach0Bloomery2Z+"
+	},
+	"Nach0Bloomery2X-": {
+		"parentType": "Nach0Bloomery2",
+		"sidex-": "bloomery",
+		"sidey+": "Nach0Bloomery2TopTexture",
+		"sideall": "bricks"
+	},
+	"Nach0Bloomery2X+": {
+		"parentType": "Nach0Bloomery2",
+		"sidex+": "bloomery",
+		"sidey+": "Nach0Bloomery2TopTexture",
+		"sideall": "bricks"
+	},
+	"Nach0Bloomery2Z-": {
+		"parentType": "Nach0Bloomery2",
+		"sidez-": "bloomery",
+		"sidey+": "Nach0Bloomery2TopTexture",
+		"sideall": "bricks"
+	},
+	"Nach0Bloomery2Z+": {
+		"parentType": "Nach0Bloomery2",
+		"sidez+": "bloomery",
+		"sidey+": "Nach0Bloomery2TopTexture",
+		"sideall": "bricks"
+	},
+	"Nach0Workbench2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"k"
+		],
+		"icon": "Nach0Workbench2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0Workbench2TopTexture",
+		"sideall": "planks"
+	},
+	"Nach0Dyer2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"b"
+		],
+		"icon": "Nach0Dyer2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0Dyer2TopTexture",
+		"sideall": "planks"
+	},
+	"Nach0FineryForge2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"o"
+		],
+		"icon": "Nach0FineryForge2.png",
+		"maxStackSize": 50,
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": true,
+		"rotatablex-": "Nach0FineryForge2X-",
+		"rotatablex+": "Nach0FineryForge2X+",
+		"rotatablez-": "Nach0FineryForge2Z-",
+		"rotatablez+": "Nach0FineryForge2Z+"
+	},
+	"Nach0FineryForge2X-": {
+		"parentType": "Nach0FineryForge2",
+		"sidex-": "fineryforge",
+		"sidey+": "Nach0FineryForge2TopTexture",
+		"sideall": "ironblock"
+	},
+	"Nach0FineryForge2X+": {
+		"parentType": "Nach0FineryForge2",
+		"sidex+": "fineryforge",
+		"sidey+": "Nach0FineryForge2TopTexture",
+		"sideall": "ironblock"
+	},
+	"Nach0FineryForge2Z-": {
+		"parentType": "Nach0FineryForge2",
+		"sidez-": "fineryforge",
+		"sidey+": "Nach0FineryForge2TopTexture",
+		"sideall": "ironblock"
+	},
+	"Nach0FineryForge2Z+": {
+		"parentType": "Nach0FineryForge2",
+		"sidez+": "fineryforge",
+		"sidey+": "Nach0FineryForge2TopTexture",
+		"sideall": "ironblock"
+	},
+	"Nach0Grindstone2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"c"
+		],
+		"icon": "Nach0Grindstone2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0Grindstone2TopTexture",
+		"sideall": "planks"
+	},
+	"Nach0GunSmith2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"d"
+		],
+		"icon": "Nach0GunSmith2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0GunSmith2TopTexture",
+		"sideall": "ironblock"
+	},
+	"Nach0Kiln2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"p"
+		],
+		"icon": "Nach0Kiln2.png",
+		"maxStackSize": 50,
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": true,
+		"rotatablex-": "Nach0Kiln2X-",
+		"rotatablex+": "Nach0Kiln2X+",
+		"rotatablez-": "Nach0Kiln2Z-",
+		"rotatablez+": "Nach0Kiln2Z+"
+	},
+	"Nach0Kiln2X-": {
+		"parentType": "Nach0Kiln2",
+		"sidex-": "kiln",
+		"sidey+": "Nach0Kiln2TopTexture",
+		"sideall": "dirt"
+	},
+	"Nach0Kiln2X+": {
+		"parentType": "Nach0Kiln2",
+		"sidex+": "kiln",
+		"sidey+": "Nach0Kiln2TopTexture",
+		"sideall": "dirt"
+	},
+	"Nach0Kiln2Z-": {
+		"parentType": "Nach0Kiln2",
+		"sidez-": "kiln",
+		"sidey+": "Nach0Kiln2TopTexture",
+		"sideall": "dirt"
+	},
+	"Nach0Kiln2Z+": {
+		"parentType": "Nach0Kiln2",
+		"sidez+": "kiln",
+		"sidey+": "Nach0Kiln2TopTexture",
+		"sideall": "dirt"
+	},
+	"Nach0Shop2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"f"
+		],
+		"icon": "Nach0Shop2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0Shop2TopTexture",
+		"sideall": "planks"
+	},
+	"Nach0Anvil2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"a"
+		],
+		"icon": "Nach0Anvil2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0Anvil2TopTexture",
+		"sideall": "stonebricks"
+	},
+	"Nach0Mint2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"e"
+		],
+		"icon": "Nach0Mint2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0Mint2TopTexture",
+		"sideall": "planks"
+	},
+	"Nach0Furnace2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"l"
+		],
+		"icon": "Nach0Furnace2.png",
+		"maxStackSize": 50,
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": true,
+		"rotatablex-": "Nach0Furnace2X-",
+		"rotatablex+": "Nach0Furnace2X+",
+		"rotatablez-": "Nach0Furnace2Z-",
+		"rotatablez+": "Nach0Furnace2Z+"
+	},
+	"Nach0Furnace2X-": {
+		"parentType": "Nach0Furnace2",
+		"sidex-": "furnaceunlitfront",
+		"sidey+": "Nach0Furnace2TopTexture",
+		"sideall": "furnaceside"
+	},
+	"Nach0Furnace2X+": {
+		"parentType": "Nach0Furnace2",
+		"sidex+": "furnaceunlitfront",
+		"sidey+": "Nach0Furnace2TopTexture",
+		"sideall": "furnaceside"
+	},
+	"Nach0Furnace2Z-": {
+		"parentType": "Nach0Furnace2",
+		"sidez-": "furnaceunlitfront",
+		"sidey+": "Nach0Furnace2TopTexture",
+		"sideall": "furnaceside"
+	},
+	"Nach0Furnace2Z+": {
+		"parentType": "Nach0Furnace2",
+		"sidez+": "furnaceunlitfront",
+		"sidey+": "Nach0Furnace2TopTexture",
+		"sideall": "furnaceside"
+	},
+	"Nach0Mason2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"h"
+		],
+		"icon": "Nach0Mason2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0Mason2TopTexture",
+		"sideall": "stoneblock"
+	},
+	"Nach0Tailor2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"i"
+		],
+		"icon": "Nach0Tailor2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0Tailor2TopTexture",
+		"sideall": "planks"
+	},
+	"Nach0CoppingBlock2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"g"
+		],
+		"icon": "Nach0ChoppingBlock2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0ChoppingBlock2TopTexture",
+		"sideall": "planks"
+	},
+	"Nach0TechnologistTable2": {
+		"categories": [
+			"nach0",
+			"morejobs",
+			"jobs",
+			"g",
+		],
+		"icon": "Nach0TechnologistTable2.png",
+		"maxStackSize": 50,
+		"sidey+": "Nach0TechnologistTable2TopTexture",
+		"sideall": "planks"
+	}
+}

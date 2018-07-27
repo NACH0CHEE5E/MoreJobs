@@ -1,0 +1,123 @@
+[
+	{
+		"defaultLimit" : 3,
+		"isOptional" : true,
+		"name" : "pipliz.stonemason2.quarterblockgrey",
+		"requires" : [
+			{"amount":1,"type":"stonebricks"}
+		],
+		"results" : [
+			{"amount":4,"type":"quarterblockgrey"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.stoneblock",
+		"requires" : [
+			{"amount":5,"type":"stonebricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"stoneblock"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.darkstone",
+		"requires" : [
+			{"amount":5,"type":"stonebricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"darkstone"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.stonebricksbrown",
+		"requires" : [
+			{"amount":5,"type":"stonebricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"stonebricksbrown"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.bricksdarkred",
+		"requires" : [
+			{"amount":5,"type":"bricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"bricksdarkred"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.bricksblack",
+		"requires" : [
+			{"amount":5,"type":"bricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"bricksblack"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.bricksdarkyellow",
+		"requires" : [
+			{"amount":5,"type":"bricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"bricksdarkyellow"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.bricksred",
+		"requires" : [
+			{"amount":5,"type":"bricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"bricksred"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.cobblestoneblack",
+		"requires" : [
+			{"amount":5,"type":"stonebricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"cobblestoneblack"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.cobblestonebrown",
+		"requires" : [
+			{"amount":5,"type":"stonebricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"cobblestonebrown"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.cobblestonegrey",
+		"requires" : [
+			{"amount":5,"type":"stonebricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"cobblestonegrey"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.stonemason2.cobblestoneblue",
+		"requires" : [
+			{"amount":5,"type":"stonebricks"}
+		],
+		"results" : [
+			{"amount":5,"type":"cobblestoneblue"}
+		]
+	}
+]

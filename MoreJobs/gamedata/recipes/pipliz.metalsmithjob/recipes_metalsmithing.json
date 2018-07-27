@@ -1,0 +1,17 @@
+[
+	{
+		"defaultLimit" : 1,
+		"defaultPriority" : -100,
+		"isOptional" : false,
+		"name" : "pipliz.metalsmith.fineryforge2",
+		"requires" : [
+			{"type":"ironblock"},
+			{"type":"bronzeplate"},
+			{"amount":4,"type":"tin"},
+			{"type":"fineryforge"}
+		],
+		"results" : [
+			{"type":"Nach0FineryForge2"}
+		]
+	}
+]

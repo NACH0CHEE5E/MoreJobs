@@ -1,0 +1,119 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8667D3A-48A4-4D8E-A4D2-2894F5949C47}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>MoreJobs</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>MoreJobs</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Colony Survival\gamedata\mods\JackPS9\NewColonyAPI\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="APIProvider">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Colony Survival\gamedata\mods\Pipliz\APIProvider\APIProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Colony Survival\colonyserver_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="BaseGame">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Colony Survival\gamedata\mods\Pipliz\BaseGame\BaseGame.dll</HintPath>
+    </Reference>
+    <Reference Include="NewColonyAPI">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Colony Survival\gamedata\mods\JackPS9\NewColonyAPI\NewColonyAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Colony Survival\colonyserver_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Colony Survival\colonyserver_Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitattributes" />
+    <None Include=".git\COMMIT_EDITMSG" />
+    <None Include=".git\config" />
+    <None Include=".git\description" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\hooks\applypatch-msg.sample" />
+    <None Include=".git\hooks\commit-msg.sample" />
+    <None Include=".git\hooks\fsmonitor-watchman.sample" />
+    <None Include=".git\hooks\post-update.sample" />
+    <None Include=".git\hooks\pre-applypatch.sample" />
+    <None Include=".git\hooks\pre-commit.sample" />
+    <None Include=".git\hooks\pre-push.sample" />
+    <None Include=".git\hooks\pre-rebase.sample" />
+    <None Include=".git\hooks\pre-receive.sample" />
+    <None Include=".git\hooks\prepare-commit-msg.sample" />
+    <None Include=".git\hooks\update.sample" />
+    <None Include=".git\index" />
+    <None Include=".git\info\exclude" />
+    <None Include=".git\logs\HEAD" />
+    <None Include=".git\logs\refs\heads\master" />
+    <None Include=".git\objects\58\9f9eef22db26e941784e6be846cbdb5debc408" />
+    <None Include=".git\objects\67\808e74a052dcc77217521de1270a7d06d33187" />
+    <None Include=".git\objects\a3\f54cd7616e10c08ee6715ff20c290c34087587" />
+    <None Include=".git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b" />
+    <None Include=".git\objects\e4\5fe2b7bf00b2b05e0f4b3ac93edda27c9ed9d3" />
+    <None Include=".git\refs\heads\master" />
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Jobs\Nach0Crafter2Job.cs" />
+    <Compile Include="Jobs\Nach0Dyer2Job.cs" />
+    <Compile Include="Jobs\Nach0FineryForge2Job.cs" />
+    <Compile Include="Jobs\Nach0Grinder2Job.cs" />
+    <Compile Include="Jobs\Nach0GunSmither2Job.cs" />
+    <Compile Include="Jobs\Nach0Kiln2Job.cs" />
+    <Compile Include="Jobs\Nach0Merchant2Job.cs" />
+    <Compile Include="Jobs\Nach0MetalSmithJ2Job.cs" />
+    <Compile Include="Jobs\Nach0Minter2Job.cs" />
+    <Compile Include="Jobs\Nach0Tailor2Job.cs" />
+    <Compile Include="Jobs\Nach0Smelter2Job.cs" />
+    <Compile Include="Jobs\Nach0StoneCutter2Job.cs" />
+    <Compile Include="Jobs\Nach0Technologist2Job.cs" />
+    <Compile Include="Jobs\Nach0WoodCutter2Job.cs" />
+    <Compile Include="Jobs\Nach0Bloomery2Job.cs" />
+    <Compile Include="Jobs\Nach0Baker2Job.cs" />
+    <Compile Include="modentry.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".git\objects\info\" />
+    <Folder Include=".git\objects\pack\" />
+    <Folder Include=".git\refs\tags\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

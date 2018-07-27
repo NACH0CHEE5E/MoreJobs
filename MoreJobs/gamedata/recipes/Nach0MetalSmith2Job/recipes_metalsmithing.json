@@ -1,0 +1,164 @@
+[
+	{
+		"defaultLimit" : 2,
+		"defaultPriority" : -100,
+		"name" : "pipliz.metalsmith2.bronzepickaxe",
+		"requires" : [
+			{"type":"bronzeingot"},
+			{"type":"planks"}
+		],
+		"results" : [
+			{"type":"bronzepickaxe"}
+		]
+	},
+	{
+		"defaultLimit" : 2,
+		"defaultPriority" : -100,
+		"name" : "pipliz.metalsmith2.bronzeaxe",
+		"requires" : [
+			{"type":"bronzeingot"},
+			{"type":"planks"}
+		],
+		"results" : [
+			{"type":"bronzeaxe"}
+		]
+	},
+	{
+		"defaultLimit" : 10,
+		"defaultPriority" : -100,
+		"name" : "pipliz.metalsmith2.bronzeplate",
+		"requires" : [
+			{"type":"bronzeingot"}
+		],
+		"results" : [
+			{"type":"bronzeplate"}
+		]
+	},
+	{
+		"defaultLimit" : 60,
+		"defaultPriority" : 100,
+		"name" : "pipliz.metalsmith2.bronzearrow",
+		"requires" : [
+			{"type":"bronzeingot"},
+			{"type":"planks"}
+		],
+		"results" : [
+			{"amount":5,"type":"bronzearrow"}
+		]
+	},
+	{
+		"defaultLimit" : 10,
+		"defaultPriority" : 0,
+		"name" : "pipliz.metalsmith2.ironrivets",
+		"requires" : [
+			{"type":"ironingot"}
+		],
+		"results" : [
+			{"amount":5,"type":"ironrivet"}
+		]
+	},
+	{
+		"defaultLimit" : 15,
+		"defaultPriority" : 0,
+		"name" : "pipliz.metalsmith2.ironwrought",
+		"requires" : [
+			{"type":"ironingot"}
+		],
+		"results" : [
+			{"type":"ironwrought"}
+		]
+	},
+	{
+		"defaultLimit" : 10,
+		"defaultPriority" : -100,
+		"name" : "pipliz.metalsmith2.ironsword",
+		"requires" : [
+			{"amount":2,"type":"ironwrought"},
+			{"type":"ironrivet"},
+			{"type":"copperparts"}
+		],
+		"results" : [
+			{"type":"ironsword"}
+		]
+	},
+	{
+		"defaultLimit" : 1,
+		"defaultPriority" : -100,
+		"name" : "pipliz.metalsmith2.ironblock",
+		"requires" : [
+			{"amount":12,"type":"ironwrought"}
+		],
+		"results" : [
+			{"type":"ironblock"}
+		]
+	},
+	{
+		"defaultLimit" : 5,
+		"defaultPriority" : -100,
+		"name" : "pipliz.metalsmith2.steelparts",
+		"requires" : [
+			{"type":"steelingot"}
+		],
+		"results" : [
+			{"type":"steelparts"}
+		]
+	},
+	{
+		"defaultLimit" : 5,
+		"defaultPriority" : -100,
+		"isOptional" : true,
+		"name" : "pipliz.metalsmith2.lanternyellow",
+		"requires" : [
+			{"amount":4,"type":"lead"},
+			{"amount":4,"type":"ironrivet"},
+			{"amount":4,"type":"ironwrought"},
+			{"type":"crystal"},
+			{"amount":5,"type":"charcoal"}
+		],
+		"results" : [
+			{"type":"lanternyellow"}
+		]
+	},
+	{
+		"defaultLimit" : 10,
+		"defaultPriority" : 100,
+		"isOptional" : true,
+		"name" : "pipliz.metalsmith2.crossbowbolt",
+		"requires" : [
+			{"type":"ironwrought"},
+			{"amount":5,"type":"ironrivet"}
+		],
+		"results" : [
+			{"amount":5,"type":"crossbowbolt"}
+		]
+	},
+	{
+		"defaultLimit" : 2,
+		"defaultPriority" : 100,
+		"isOptional" : true,
+		"name" : "pipliz.metalsmith2.crossbow",
+		"requires" : [
+			{"amount":3,"type":"ironwrought"},
+			{"amount":2,"type":"ironrivet"},
+			{"type":"bowstring"},
+			{"type":"coatedplanks"}
+		],
+		"results" : [
+			{"type":"crossbow"}
+		]
+	},
+	{
+		"defaultLimit" : 1,
+		"defaultPriority" : -100,
+		"isOptional" : true,
+		"name" : "pipliz.metalsmith2.fineryforge",
+		"requires" : [
+			{"type":"ironblock"},
+			{"type":"bronzeplate"},
+			{"amount":4,"type":"tin"}
+		],
+		"results" : [
+			{"type":"fineryforge"}
+		]
+	}
+]

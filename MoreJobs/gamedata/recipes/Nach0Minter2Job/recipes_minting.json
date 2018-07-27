@@ -1,0 +1,22 @@
+[
+	{
+		"defaultLimit" : 15,
+		"name" : "pipliz.minter2.goldcoin",
+		"requires" : [
+			{"type":"goldingot"}
+		],
+		"results" : [
+			{"type":"goldcoin"}
+		]
+	},
+	{
+		"defaultLimit" : 15,
+		"name" : "pipliz.minter2.bronzecoin",
+		"requires" : [
+			{"type":"bronzeingot"}
+		],
+		"results" : [
+			{"type":"bronzecoin"}
+		]
+	}
+]
