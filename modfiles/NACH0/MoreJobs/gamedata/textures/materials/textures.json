@@ -1,0 +1,50 @@
+{
+	"Nach0BronzeAnvil2TopTexture": {
+		"albedo": "Nach0BronzeAnvil2Top"
+	},
+	"Nach0DyerTable2TopTexture": {
+		"albedo": "Nach0DyerTable2Top"
+	},
+	"Nach0Grindstone2TopTexture": {
+		"albedo": "Nach0Grindstone2Top"
+	},
+	"Nach0GunSmithShop2TopTexture": {
+		"albedo": "Nach0GunSmithShop2Top"
+	},
+	"Nach0Mint2TopTexture": {
+		"albedo": "Nach0Mint2Top"
+	},
+	"Nach0Shop2TopTexture": {
+		"albedo": "Nach0Shop2Top"
+	},
+	"Nach0SplittingStump2TopTexture": {
+		"albedo": "Nach0SplittingStump2Top"
+	},
+	"Nach0StoneMasonWorkbench2TopTexture": {
+		"albedo": "Nach0StoneMasonWorkbench2Top"
+	},
+	"Nach0TailorShop2TopTexture": {
+		"albedo": "Nach0TailorShop2Top"
+	},
+	"Nach0TechnologistTable2TopTexture": {
+		"albedo": "Nach0TechnologistTable2Top"
+	},
+	"Nach0Workbench2TopTexture": {
+		"albedo": "Nach0Workbench2Top"
+	},
+	"Nach0Furnace2TopTexture": {
+		"albedo": "Nach0Furnace2Top"
+	},
+	"Nach0Oven2TopTexture": {
+		"albedo": "Nach0Oven2Top"
+	},
+	"Nach0Bloomery2TopTexture": {
+		"albedo": "Nach0Bloomery2Top"
+	},
+	"Nach0FineryForge2TopTexture": {
+		"albedo": "Nach0FineryForge2Top"
+	},
+	"Nach0Kiln2TopTexture": {
+		"albedo": "Nach0Kiln2Top"
+	}
+}

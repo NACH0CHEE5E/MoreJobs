@@ -51,7 +51,7 @@ namespace MoreJobs
 
             JobManager.RegisterJob<Jobs.Nach0Crafter2Job>("Nach0Workbench2", "Nach0Crafter2Job");
 
-            JobManager.RegisterJob<Jobs.Nach0Dyer2Job>("Nach0Dyer2", "Nach0Dyer2Job");
+            JobManager.RegisterJob<Jobs.Nach0Dyer2Job>("Nach0DyerTable2", "Nach0Dyer2Job");
 
             JobManager.RegisterJob<Jobs.Nach0FineryForge2Job>("Nach0FineryForge2", "Nach0FineryForge2Job");
             JobManager.RegisterJob<Jobs.Nach0FineryForge2Job>("Nach0FineryForge2X-", "Nach0FineryForge2Job");
@@ -61,7 +61,7 @@ namespace MoreJobs
 
             JobManager.RegisterJob<Jobs.Nach0Grinder2Job>("Nach0Grindstone2", "Nach0Grinder2Job");
 
-            JobManager.RegisterJob<Jobs.Nach0GunSmither2Job>("Nach0GunSmith2", "Nach0GunSmither2Job");
+            JobManager.RegisterJob<Jobs.Nach0GunSmith2Job>("Nach0GunSmithShop2", "Nach0GunSmith2Job");
 
             JobManager.RegisterJob<Jobs.Nach0Kiln2Job>("Nach0Kiln2", "Nach0Kiln2Job");
             JobManager.RegisterJob<Jobs.Nach0Kiln2Job>("Nach0Kiln2X-", "Nach0Kiln2Job");
@@ -71,7 +71,7 @@ namespace MoreJobs
 
             JobManager.RegisterJob<Jobs.Nach0Merchant2Job>("Nach0Shop2", "Nach0Merchant2Job");
 
-            JobManager.RegisterJob<Jobs.Nach0MetalSmithJ2Job>("Nach0Anvil2", "Nach0MetalSmithJ2Job");
+            JobManager.RegisterJob<Jobs.Nach0MetalSmith2Job>("Nach0BronzeAnvil2", "Nach0MetalSmith2Job");
 
             JobManager.RegisterJob<Jobs.Nach0Minter2Job>("Nach0Mint2", "Nach0Minter2Job");
 
@@ -81,13 +81,13 @@ namespace MoreJobs
             JobManager.RegisterJob<Jobs.Nach0Smelter2Job>("Nach0Furnace2Z-", "Nach0Smelter2Job");
             JobManager.RegisterJob<Jobs.Nach0Smelter2Job>("Nach0Furnace2Z+", "Nach0Smelter2Job");
 
-            JobManager.RegisterJob<Jobs.Nach0StoneCutter2Job>("Nach0Mason2", "Nach0StoneCutter2Job");
+            JobManager.RegisterJob<Jobs.Nach0StoneMason2Job>("Nach0StoneMasonWorkbench2", "Nach0StoneMason2Job");
 
-            JobManager.RegisterJob<Jobs.Nach0Tailor2Job>("Nach0Tailor2", "Nach0Tailor2Job");
+            JobManager.RegisterJob<Jobs.Nach0Tailor2Job>("Nach0TailorShop2", "Nach0Tailor2Job");
 
             JobManager.RegisterJob<Jobs.Nach0Technologist2Job>("Nach0TechnologistTable2", "Nach0Technologist2Job");
 
-            JobManager.RegisterJob<Jobs.Nach0WoodCutter2Job>("Nach0CoppingBlock2", "Nach0WoodCutter2Job");
+            JobManager.RegisterJob<Jobs.Nach0WoodCutter2Job>("Nach0SplittingStump2", "Nach0WoodCutter2Job");
         }
     }
 }

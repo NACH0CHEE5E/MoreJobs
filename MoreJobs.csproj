@@ -93,14 +93,14 @@
     <Compile Include="Jobs\Nach0Dyer2Job.cs" />
     <Compile Include="Jobs\Nach0FineryForge2Job.cs" />
     <Compile Include="Jobs\Nach0Grinder2Job.cs" />
-    <Compile Include="Jobs\Nach0GunSmither2Job.cs" />
+    <Compile Include="Jobs\Nach0GunSmith2Job.cs" />
     <Compile Include="Jobs\Nach0Kiln2Job.cs" />
     <Compile Include="Jobs\Nach0Merchant2Job.cs" />
-    <Compile Include="Jobs\Nach0MetalSmithJ2Job.cs" />
+    <Compile Include="Jobs\Nach0MetalSmith2Job.cs" />
     <Compile Include="Jobs\Nach0Minter2Job.cs" />
     <Compile Include="Jobs\Nach0Tailor2Job.cs" />
     <Compile Include="Jobs\Nach0Smelter2Job.cs" />
-    <Compile Include="Jobs\Nach0StoneCutter2Job.cs" />
+    <Compile Include="Jobs\Nach0StoneMason2Job.cs" />
     <Compile Include="Jobs\Nach0Technologist2Job.cs" />
     <Compile Include="Jobs\Nach0WoodCutter2Job.cs" />
     <Compile Include="Jobs\Nach0Bloomery2Job.cs" />
