@@ -1,172 +1,116 @@
 {
 	"sentences": {
-		"NACH0": {
-			"research": {
-				"artistery": {
-					"description": "Unlocks Artist",
-					"name": "Artistery"
-				}
-			}
+		"Nach0Archery2Research": {
+					"description" : "You can now make archery related stuff in second workbench's",
+					"name" : "Archery 2"
 		},
-		"Nach0BrickLayingResearch": {
+		"Nach0Bloomery2Research": {
+			"description" : "You can now make a second Bloomery",
+					"name" : "Bloomery 2"
+		},
+		"Nach0BronzeAnvil2Research": {
+			"description" : "You can now make a second Bronze Anvil",
+					"name" : "Bronze Anvil 2"
+		},
+		"Nach0BronzeMinting2Research": {
+			"description" : "You can now make a second Bronze Anvil",
+					"name" : "Bronze Anvil 2"
+		},
+		"Nach0CrossBow2Research": {
 			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
 			"name": "Brick Laying"
 		},
-		"Nach0BrickMakingResearch": {
-			"description": "Yes you need bricks to research how to make a brick",
-			"name": "Brick Making"
+		"Nach0CrossBowBolt2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0CarpenterResearch": {
-			"description": "Unlocks the Carpenter",
-			"name": "Carpenter"
+		"Nach0DyerTable2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0CarverResearch": {
-			"description": "Unlocks the Carver",
-			"name": "Carver"
+		"Nach0FineryForge2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ChiselerResearch": {
-			"description": "Unlocks the Chiseler",
-			"name": "Chiseler"
+		"Nach0FlaxFarming2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ChiselResearch": {
-			"description": "Unlocks the ability to make a chisel",
-			"name": "Chisel"
+		"Nach0GunPowder2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ColouredConcreteResearch": {
-			"description": "To add paint to concrete and yes colour has a u in it",
-			"name": "Coloured Concrete"
+		"Nach0GunSmithShop2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ConcreteMakingResearch": {
-			"description": "To mix powder and water then watch",
-			"name": "Concrete Making"
+		"Nach0HerbFarming2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ConcreteSmoothing2Research": {
-			"description": "To make your life a little bit harder",
-			"name": "Concrete Smoothing 2"
+		"Nach0Kiln2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ConcreteSmoothingResearch": {
-			"description": "To rub sand and paper on concrete",
-			"name": "Concrete Smoothing"
+		"Nach0Lantern2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0CrushingResearch": {
-			"description": "To crush or not to crush (also unlocks the Crusher)",
-			"name": "Crushing"
+		"Nach0MatchlockGun2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0Currency2Research": {
-			"description": "I like money",
-			"name": "Currency 2"
+		"Nach0QuarterBlockDyer2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0CurrencyResearch": {
-			"description": "Shiny",
-			"name": "Currency"
+		"Nach0QuarterBlockSplittingStump2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ExoticDirtResearch": {
-			"description": "What makes it exotic?",
-			"name": "Exotic Dirt"
+		"Nach0QuarterBlockStoneMason2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ExoticGoods2Research": {
-			"description": "From accross the sea",
-			"name": "Exotic Goods 2"
+		"Nach0ScienceBagAdvanced2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ExoticGoodsResearch": {
-			"description": "Far Far away they come from",
-			"name": "Exotic Goods"
+		"Nach0ScienceBagBasic2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ExoticGrassResearch": {
-			"description": "Grassy",
-			"name": "Exotic Grass"
+		"Nach0ScienceBagColony2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ExoticSandResearch": {
-			"description": "Sandy",
-			"name": "Exotic Sand"
+		"Nach0ScienceBagLife2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ExoticStoneResearch": {
-			"description": "You can now buy stone",
-			"name": "Exotic Stone"
+		"Nach0ScienceBagMilitary2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0ExoticWoodResearch": {
-			"description": "It's from another place ;)",
-			"name": "Exotic Wood"
+		"Nach0SplittingStump2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0FaithResearch": {
-			"description": "You can now pray",
-			"name": "Faith"
+		"Nach0StoneMasonWorkbench2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0FreezingResearch": {
-			"description": "You can now freeze stuff",
-			"name": "Freezing"
+		"Nach0TailorShop2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0MagicResearch": {
-			"description": "MAGIC!!!",
-			"name": "Magic"
+		"Nach0TechnologistTable2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
-		"Nach0MeltingResearch": {
-			"description": "You can now melt stuff",
-			"name": "Melting"
-		},
-		"Nach0PailingResearch": {
-			"description": "To fill a bucket with water",
-			"name": "Pailing"
-		},
-		"Nach0Painting2Research": {
-			"description": "Unlocks the abilty to make more coloured blocks",
-			"name": "Painting 2"
-		},
-		"Nach0Painting3Research": {
-			"description": "Unlocks the Advanced Painter",
-			"name": "Advanced Painting"
-		},
-		"Nach0PaintingResearch": {
-			"description": "Unlocks the Painter",
-			"name": "Painting"
-		},
-		"Nach0PaintingScienceBagResearch": {
-			"description": "Unlocks the Painting Science Bag",
-			"name": "Painting Science Bag"
-		},
-		"Nach0PaintMixingResearch": {
-			"description": "Unlocks the ability to mix paint together",
-			"name": "Paint Mixing"
-		},
-		"Nach0PaintMakingResearch": {
-			"description": "Unlocks the abilty Paint Maker",
-			"name": "Paint Making"
-		},
-		"Nach0PaperMakingResearch": {
-			"description": "Allows you to make paper",
-			"name": "Paper Making"
-		},
-		"Nach0RockResearch": {
-			"description": "Yes you can research a rock",
-			"name": "Rock"
-		},
-		"Nach0ExoticPlantsResearch": {
-			"description": "You can now buy exotic plants",
-			"name": "Exotic Plants"
-		},
-		"Nach0SandingResearch": {
-			"description": "You can now sand things",
-			"name": "Sanding"
-		},
-		"Nach0SpellsResearch": {
-			"description": "Unlocks the Enchanter",
-			"name": "Enchanting"
-		},
-		"Nach0WoodWorkingResearch": {
-			"description": "You can now work with wood",
-			"name": "Wood Working"
-		},
-		"Nach0BrokenIce1Research": {
-			"description": "You can now smash ice",
-			"name": "Ice Smashing 1"
-		},
-		"Nach0BrokenIce2Research": {
-			"description": "You can now smash ice again",
-			"name": "Ice Smashing 2"
-		},
-		"Nach0BrokenIce3Research": {
-			"description": "You can now smash ice again",
-			"name": "Ice Smashing 3"
+		"Nach0WheatFarming2Research": {
+			"description": "Unlocks the knowledge on how to put a brick on top of another brick",
+			"name": "Brick Laying"
 		},
 		"popup": {
 			"limits": {

@@ -98,7 +98,7 @@
 			{"type":"splittingstump"}
 		],
 		"results" : [
-			{"type":"Nach0CoppingBlock2"}
+			{"type":"Nach0SplittingStump2"}
 		]
 	},
 	{
@@ -112,7 +112,7 @@
 			{"type":"splittingstump"}
 		],
 		"results" : [
-			{"type":"Nach0CoppingBlock2"}
+			{"type":"Nach0SplittingStump2"}
 		]
 	},
 	{
@@ -127,7 +127,7 @@
 			{"type":"tailorshop"}
 		],
 		"results" : [
-			{"type":"Nach0Tailor2"}
+			{"type":"Nach0TailorShop2"}
 		]
 	},
 	{
@@ -169,7 +169,7 @@
 			{"type":"dyertable"}
 		],
 		"results" : [
-			{"type":"Nach0Dyer2"}
+			{"type":"Nach0DyerTable2"}
 		]
 	},
 	{
@@ -199,7 +199,7 @@
 			{"type":"gunsmithshop"}
 		],
 		"results" : [
-			{"type":"Nach0GunSmith2"}
+			{"type":"Nach0GunSmithShop2"}
 		]
 	},
 	{

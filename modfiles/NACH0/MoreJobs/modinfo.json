@@ -1,6 +1,6 @@
 [{
-	"name": "NACH0.MoreBlocks",
-	"version": "0.1.0",
+	"name": "NACH0.MoreJobs",
+	"version": "1.1.0",
 	"dllpath": "MoreJobs.dll",
 	"namepretty": "More Jobs",
 	"enabled": true,
@@ -9,6 +9,22 @@
 		"0.6.3"
 	],
 	"patchnotes": [
+		{
+			"version": "1.1.0",
+			"notes": [
+				"All the researchs now require an expesnsive research to make them more balanced and later game",
+				"*If you find any issues or have suggestions join the discord",
+				"*discord.gg/tqFhxhm"
+			]
+		},
+		{
+			"version": "1.0.0",
+			"notes": [
+				"You can now research and craft the rest of the workbenchs, added research so you can craft items that are locked behind research",
+				"*If you find any issues or have suggestions join the discord",
+				"*discord.gg/tqFhxhm"
+			]
+		},
 		{
 			"version": "0.1.0",
 			"notes": [
